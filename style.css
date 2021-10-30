@@ -43,7 +43,7 @@ header h3{
 
 .search:focus{
     outline: 0;
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 .search::placeholder{
